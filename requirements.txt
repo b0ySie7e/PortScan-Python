@@ -1,0 +1,5 @@
+sockets
+os-sys
+argparse
+ipaddress
+pwntools
